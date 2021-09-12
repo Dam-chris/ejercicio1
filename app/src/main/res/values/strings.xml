@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ejercicio1</string>
+    <string name="titulo1">Super Agenda Chachi</string>
+    <string name="pie">Fin Del Diseño</string>
+    <string name="toast">boton super chachi lanzado</string>
+</resources>
